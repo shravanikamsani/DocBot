@@ -16,7 +16,9 @@ DocBot is a high-speed, intelligent chatbot that allows users to upload PDF docu
 - **Framework:** Streamlit
 - **LLM:** Meta Llama 3.3 70B (via Groq Cloud)
 - **Document Processing:** PyPDF
-
+---
+## 💻Live Demo
+[Click here to view the live site](docbot-26.streamlit.app) 
 ---
 
 ## 📦 Project Structure
